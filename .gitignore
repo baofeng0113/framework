@@ -11,4 +11,5 @@
 *.iml
 *.ipr
 *.iws
+*.ids
 target
